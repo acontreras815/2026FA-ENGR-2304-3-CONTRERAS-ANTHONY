@@ -1,3 +1,5 @@
+/// Github push and pull assignment text for P01
+
 #include <stdio.h>
 
 int main(void){
